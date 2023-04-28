@@ -22,5 +22,9 @@ public class User {
      * 密码
      */
     private String password;
+    /**
+     * 用户头像
+     */
+    private String avatar;
 }
 

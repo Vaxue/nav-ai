@@ -9,6 +9,7 @@
         <module>nav-ai-service</module>
         <module>nav-ai-web</module>
         <module>nav-ai-common</module>
+        <module>nav-ai-admin</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
